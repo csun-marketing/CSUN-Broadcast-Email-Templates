@@ -42,6 +42,7 @@ The following is a best-practices checklist to review before sending your messag
 * Use HTML entity tags for any special characters (quotes, ampersands, em dashes, etc.). The following is a good resource to reference needed tags: https://www.toptal.com/designers/htmlarrows/symbols/
 * Ensure that the copyright year is correct
 * Make sure you&rsquo;re using the correct department/college logo with the registration mark &mdash; a directory can be found here: http://www.csun.edu/ua/2017logos/
+* Follow accessibility best practices by including descriptive alt-text for your images &mdash; the CSUN Universal Design Center has guidelines available here: http://www.csun.edu/universal-design-center/web-accessibility
 
 ## Template Assistance
 Contact CSUN Campus Creative Services for any assistance with these templates:
